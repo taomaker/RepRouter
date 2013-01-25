@@ -1,11 +1,32 @@
-======================================
-AnniRouter: The open source CNC router
-======================================
+AnniRouter Version 0.1
 
-AnniRouter is an open source hardware project, aiming at building a versatile personal CNC maching. For more info, visit http://www.taomaker.com/annirouter/
+Introduction
+=============
+AnniRouter is an open-source CNC router.
 
-This design is free (as in freedom): you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Required Tools
+==============
+ * CNC laser cutter
+ * Hex Keys
+ * Hand drill with 6mm drill bit
 
-This design is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Assembly Instructions
+=====================
+Not yet available yet. The wiki will hold a detailed guide in the future. Right now please download the assembly file, view it with Solidworks or Solidworks eDrawings (free).
 
-You should have received a copy of the GNU General Public License along with this design.  If not, see <http://www.gnu.org/licenses/>.
+Whats New
+=========
+Not available for this first release.
+
+Changes in this release
+=======================
+Not available for this first release.
+
+Issues
+======
+ * When using laser-cutter to cut the boards, please make offsets to compensate the thickness of the cutting, other wise the hold for mounting rotating/linear bears will be to large
+
+Contacts
+========
+http://www.taomaker.com
+web@taomaker.com
