@@ -1,0 +1,37 @@
+======================
+AnniRouter Version 0.2
+======================
+**Warning: This work, including the description below, is still in progress, it is NOT completed. Please consider frequent changes.**
+
+
+Introduction
+------------
+AnniRouter is an open-source CNC router.
+
+Required Tools
+--------------
+ * CNC router and 12mm thick MDF board if you want to cut the board by yourself.
+ * Hex Keys
+ * Hand drill with 6mm drill bit
+
+Assembly Instructions
+---------------------
+Not yet available yet. The wiki will hold a detailed guide in the future. Right now please download the assembly file, view it with Solidworks or Solidworks eDrawings (free).
+
+Whats New
+---------
+This version features with MDF boards that are cutted by CNC routers, instead of the laser-cutted boards of version 0.1.
+
+Changes in this release
+-----------------------
+- Linear bearings are changed to flanged linear bearings
+- Linear motors are used to replace the combination of stepper motors, shaft couplings, and lead screw.
+- The Y-Axis is completely redesigned to inscrease stiffness.
+
+Issues
+------
+
+Contacts
+--------
+http://www.taomaker.com
+web@taomaker.com
